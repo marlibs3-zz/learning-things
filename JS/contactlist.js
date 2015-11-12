@@ -43,6 +43,13 @@ var friends =
         number: "123459876",
         address: ['3 Buttland', 'Land of Butts']
     },
+    mate:
+    {
+        firstName: "Mate",
+        lastName: "Buddy",
+        number: "123459876",
+        address: ['3 Buttland', 'Land of Butts']
+    },
     buddy:
     {
         firstName: "Buddy",
